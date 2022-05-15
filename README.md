@@ -1,4 +1,4 @@
-# PH3206
+# PH3205
 Codes for Computational Physics Course at IISER-Kolkata
 
 Organizations Information:
